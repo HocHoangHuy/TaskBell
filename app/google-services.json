@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "793097258131",
+    "firebase_url": "https://demodtb-9aa90-default-rtdb.firebaseio.com",
+    "project_id": "demodtb-9aa90",
+    "storage_bucket": "demodtb-9aa90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793097258131:android:9bb85a1d4aa155f344f966",
+        "android_client_info": {
+          "package_name": "com.example.dtbdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbz9E_l8-GYONM4K4Qx7UywvaevnkX4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
